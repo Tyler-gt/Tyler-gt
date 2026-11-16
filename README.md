@@ -9,7 +9,7 @@ My research focuses on **AI for Science (AI4Science)**, with an interest in appl
 | University | Studies |
 | --- | --- |
 | **University of Science and Technology of China (USTC)** | **Master's / doctoral studies**<br>Materials Physics and Chemistry |
-| **Jilin University** | **Undergraduate studies**<br>Electronic Science and Technology |
+| **Jilin University (JLU)** | **Undergraduate studies**<br>Electronic Science and Technology |
 
 ## 🧭 Research Interests
 
