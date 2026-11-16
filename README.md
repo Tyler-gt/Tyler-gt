@@ -16,7 +16,6 @@ My research focuses on **AI for Science (AI4Science)**, with an interest in appl
 - **Artificial Intelligence:** World Models, Large Language Models (LLMs), AI Agents, Recursive Self-Improvement (RSI), and Embodied Intelligence.
 - **Computational Materials Science:** Density Functional Theory (DFT), Thermodynamic and Kinetic Modeling, and Multiscale Materials Simulation.
 - **AI-driven Materials Discovery:** Autonomous Materials Design, Active Learning, and Self-Driving Laboratories (SDLs).
-- **Human Instrumentality & Virtual Worlds:** Exploring EVA-style synchronization between humans and intelligent machines, alongside the creation of immersive worlds like Aincrad.
 
 ## 🔍 Research
 
@@ -25,3 +24,7 @@ My research focuses on **AI for Science (AI4Science)**, with an interest in appl
 Adaptive-learning research for materials exploration, combining surrogate models with knowledge from large language models.
 
 [Code & documentation](https://github.com/Tyler-gt/CALM)
+
+## Vision
+
+Pursuing the highest possible EVA synchronization rate between humans and AI agents to build a real-world Aincrad, liberate humanity from repetitive and mundane work, and ultimately realize the Human Instrumentality Project.
