@@ -25,17 +25,17 @@ My research focuses on **AI for Science (AI4Science)**, with an interest in appl
 
 ### CALM
 
-面向金属材料探索的自适应学习研究，结合代理模型与大语言模型知识。
+面向材料探索的自适应学习研究，结合代理模型与大语言模型知识。
 
-Adaptive-learning research for metallic materials exploration, combining surrogate models with knowledge from large language models.
+Adaptive-learning research for materials exploration, combining surrogate models with knowledge from large language models.
 
 ## 🎯 软件工具 · Software
 
-### 合金数据库管理工具 · Alloy Database Management Tool
+### 材料数据库管理工具 · Materials Database Management Tool
 
-基于 PyQt5 的合金数据库管理桌面应用。
+基于 PyQt5 的材料数据管理桌面应用。
 
-A PyQt5 desktop application for alloy database management.
+A PyQt5 desktop application for managing materials data.
 
 ### 轴承设计工具 · Bearing Design Tools
 
