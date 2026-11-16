@@ -13,11 +13,9 @@ My research focuses on **AI for Science (AI4Science)**, with an interest in appl
 
 ## 🧭 Research Interests
 
-| Area | Topics |
-| --- | --- |
-| **AI Methods** | World models, large language models, AI agents, and RSI |
-| **Computational Materials Science** | Density functional theory (DFT) and thermodynamic calculations |
-| **Intelligent Experimentation** | Embodied intelligence and AI-driven automated materials laboratories |
+- **AI Methods:** World models, large language models, AI agents, and RSI.
+- **Computational Materials Science:** Density functional theory (DFT) and thermodynamic calculations.
+- **Intelligent Experimentation:** Embodied intelligence and AI-driven automated materials laboratories.
 
 ## 🔍 Research
 
